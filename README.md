@@ -6,7 +6,7 @@
 RoboISM is the official site of Robotics Club ISM Dhanbad. Well right now it is ![alt tag](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQpNgHwfZ40zcRFx2AJ-17aoqeQF9xR53Ho-dPXPh7mku_uaETCjg)
 
 
-####For Newbies: How to run code locally ?
+#### For Newbies: How to run code locally ?
 * Clone your code into your PC. Let the folder name be Roboism. 
 * Install python 3 in your PC. Preferably in default directory (C:/)
 * delete Roboism/myvenv folder
